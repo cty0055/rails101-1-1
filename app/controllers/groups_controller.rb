@@ -30,6 +30,8 @@ def show
      redirect_to groups_path, notice: "Update Success"
    end
 
+
+
  private
 
  def group_params
